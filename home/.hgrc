@@ -1,0 +1,10 @@
+[ui]
+username = Philip Axer <axer@ida.ing.tu-bs.de>
+verbose = True
+
+[extensions]
+hgext.hgk =
+color =
+
+[color]
+mode = ansi
